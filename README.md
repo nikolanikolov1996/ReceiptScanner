@@ -1,1 +1,3 @@
 # ReceiptScanner
+
+Console application
